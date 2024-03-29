@@ -3,6 +3,7 @@ InventorySearchBar.png
 XIVCombo.png
 borderless-fix.png
 Dalamud.FullscreenCutscenes.png
+Housemate.png
 Pathfinder.png
 DelvCD.png
 WhoAmIAgain.png
@@ -13,7 +14,9 @@ FauxHollowsSolver.png
 DailyDuty.png
 ItemIcons.png
 GatherBuddy.png
+ResLogger2.Plugin.png
 HotbarUnlimited.png
+orchestrion.png
 SortaKinda.png
 FastJobSwitcher.png
 rtyping.png
@@ -40,7 +43,10 @@ HuntBuddy.png
 ActionTimeline.png
 TPie.png
 AbilityAnts.png
+PrefPro.png
 Mappy.png
+TitleEdit.png
+DamageInfoPlugin.png
 WhereAmIAgain.png
 WinTitle.png
 ChillFrames.png
