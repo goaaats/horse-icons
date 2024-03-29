@@ -55,6 +55,7 @@ NoTankYou.png
 DutyTracker.png
 DelvUI.png
 cl_showpos.png
+AdaptiveHud.png
 Wholist.png
 WhoDidThat.png
 Linkpearl.png
