@@ -29,6 +29,7 @@ Craftimizer.png
 ZodiacBuddy.png
 ClarityInChaos.png
 NOTED.png
+InventoryTools.png
 WondrousTailsSolver.png
 XIVDeck.FFXIVPlugin.png
 SimpleMarketBoard.png
