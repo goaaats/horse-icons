@@ -1,5 +1,8 @@
 name: Icon list
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
