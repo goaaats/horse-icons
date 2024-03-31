@@ -61,4 +61,5 @@ AdaptiveHud.png
 Wholist.png
 WhoDidThat.png
 Linkpearl.png
+FCNameColor.png
 CurrencyAlert.png
