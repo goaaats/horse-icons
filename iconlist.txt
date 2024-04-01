@@ -8,6 +8,7 @@ Pathfinder.png
 DelvCD.png
 WhoAmIAgain.png
 ReSanctuary.png
+BetterMountRoulette.png
 Visibility.png
 BetterInBlue.png
 FauxHollowsSolver.png
