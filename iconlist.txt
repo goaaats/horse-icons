@@ -1,6 +1,7 @@
 icons/
 InventorySearchBar.png
 XIVCombo.png
+Dalamud.FindAnything.png
 borderless-fix.png
 Dalamud.FullscreenCutscenes.png
 Housemate.png
