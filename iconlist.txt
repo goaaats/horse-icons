@@ -35,6 +35,7 @@ NOTED.png
 InventoryTools.png
 WondrousTailsSolver.png
 XIVDeck.FFXIVPlugin.png
+Accountant.png
 SimpleMarketBoard.png
 MiniCactpotSolver.png
 MagitekStratagem.png
